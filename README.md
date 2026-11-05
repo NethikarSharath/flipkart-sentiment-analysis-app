@@ -33,7 +33,7 @@ The Neutral class is more difficult to predict because it is underrepresented in
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone [<YOUR-GITHUB-REPOSITORY-URL>](https://github.com/NethikarSharath/flipkart-sentiment-analysis-app?utm_source=chatgpt.com)
 cd FlipkartSentimentAnalysisApp
 ```
 
