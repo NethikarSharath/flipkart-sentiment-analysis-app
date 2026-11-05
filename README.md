@@ -27,6 +27,7 @@ An interactive NLP application that analyzes product reviews and predicts whethe
 | Macro F1-score | 77.60% |
 
 The Neutral class is more difficult to predict because it is underrepresented in the training data.
+
 ## Run Locally
 
 ### 1. Clone the repository
