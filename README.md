@@ -27,7 +27,6 @@ An interactive NLP application that analyzes product reviews and predicts whethe
 | Macro F1-score | 77.60% |
 
 The Neutral class is more difficult to predict because it is underrepresented in the training data.
-
 ## Run Locally
 
 ### 1. Clone the repository
@@ -39,25 +38,20 @@ cd flipkart-sentiment-analysis-app
 
 ### 2. Create and activate a virtual environment
 
-```bash
-python -m venv .venv
-```
-
-Windows PowerShell:
-
 ```powershell
+python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
 ### 3. Install dependencies
 
-```bash
+```powershell
 python -m pip install -r requirements.txt
 ```
 
 ### 4. Launch the application
 
-```bash
+```powershell
 python -m streamlit run app.py
 ```
 
